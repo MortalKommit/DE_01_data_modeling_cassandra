@@ -46,3 +46,6 @@ files for separate tables. And usage of pandas to refer to columns by key rather
 ## Running the program locally
 1. Use python 3.6.3
 2. Install via conda (preferred) :  conda install --file conda_requirements.txt OR pip install -r requirements.txt
+
+Changelog - 19.07.22 1.1 Fixed column order, made notebook more presentable, moved parts of primary key choice from README to   
+jupyter notebook
